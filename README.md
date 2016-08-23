@@ -21,7 +21,7 @@ output: html_document
   
 ### Required software:
   * [SerialSoftware](https://github.com/arduino/Arduino/tree/master/hardware/arduino/avr/libraries/SoftwareSerial/src)
-  * [two_ID12_readers_swiching.ino](https://github.com/nandakrpp/ConnectedSeeds-seedsBank/blob/master/two_ID12_readers_swiching.ino)
+  * [two_ID12_readers_swiching.ino](https://github.com/nandakrpp/cs-seeds-bank/blob/master/two_ID12_readers_swiching.ino)
 
 ### Modified from: 
   * two_ID12_readers_switching_1_4
