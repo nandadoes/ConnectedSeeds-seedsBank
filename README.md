@@ -30,7 +30,7 @@ output: html_document
 ### Last modified: 
 Date: 2016-08-12  
 By: Nanda Khaorapapong  
-Contact: nanda.krpp@gmail.com
+Contact: nandadoes@gmail.com
   
 ### License: 
 Copyright (c) 2016 Nanda Khaorapapong and Connected Seeds    
